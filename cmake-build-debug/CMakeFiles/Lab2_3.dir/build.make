@@ -69,19 +69,109 @@ CMakeFiles/Lab2_3.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab2_3.dir/main.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\emila\Desktop\Projects\Lab2+3\main.cpp -o CMakeFiles\Lab2_3.dir\main.cpp.s
 
+CMakeFiles/Lab2_3.dir/BodyPart.cpp.obj: CMakeFiles/Lab2_3.dir/flags.make
+CMakeFiles/Lab2_3.dir/BodyPart.cpp.obj: ../BodyPart.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\emila\Desktop\Projects\Lab2+3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab2_3.dir/BodyPart.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lab2_3.dir\BodyPart.cpp.obj -c C:\Users\emila\Desktop\Projects\Lab2+3\BodyPart.cpp
+
+CMakeFiles/Lab2_3.dir/BodyPart.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab2_3.dir/BodyPart.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\emila\Desktop\Projects\Lab2+3\BodyPart.cpp > CMakeFiles\Lab2_3.dir\BodyPart.cpp.i
+
+CMakeFiles/Lab2_3.dir/BodyPart.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab2_3.dir/BodyPart.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\emila\Desktop\Projects\Lab2+3\BodyPart.cpp -o CMakeFiles\Lab2_3.dir\BodyPart.cpp.s
+
+CMakeFiles/Lab2_3.dir/Head.cpp.obj: CMakeFiles/Lab2_3.dir/flags.make
+CMakeFiles/Lab2_3.dir/Head.cpp.obj: ../Head.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\emila\Desktop\Projects\Lab2+3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lab2_3.dir/Head.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lab2_3.dir\Head.cpp.obj -c C:\Users\emila\Desktop\Projects\Lab2+3\Head.cpp
+
+CMakeFiles/Lab2_3.dir/Head.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab2_3.dir/Head.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\emila\Desktop\Projects\Lab2+3\Head.cpp > CMakeFiles\Lab2_3.dir\Head.cpp.i
+
+CMakeFiles/Lab2_3.dir/Head.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab2_3.dir/Head.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\emila\Desktop\Projects\Lab2+3\Head.cpp -o CMakeFiles\Lab2_3.dir\Head.cpp.s
+
+CMakeFiles/Lab2_3.dir/Leg.cpp.obj: CMakeFiles/Lab2_3.dir/flags.make
+CMakeFiles/Lab2_3.dir/Leg.cpp.obj: ../Leg.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\emila\Desktop\Projects\Lab2+3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Lab2_3.dir/Leg.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lab2_3.dir\Leg.cpp.obj -c C:\Users\emila\Desktop\Projects\Lab2+3\Leg.cpp
+
+CMakeFiles/Lab2_3.dir/Leg.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab2_3.dir/Leg.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\emila\Desktop\Projects\Lab2+3\Leg.cpp > CMakeFiles\Lab2_3.dir\Leg.cpp.i
+
+CMakeFiles/Lab2_3.dir/Leg.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab2_3.dir/Leg.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\emila\Desktop\Projects\Lab2+3\Leg.cpp -o CMakeFiles\Lab2_3.dir\Leg.cpp.s
+
+CMakeFiles/Lab2_3.dir/Arm.cpp.obj: CMakeFiles/Lab2_3.dir/flags.make
+CMakeFiles/Lab2_3.dir/Arm.cpp.obj: ../Arm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\emila\Desktop\Projects\Lab2+3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Lab2_3.dir/Arm.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lab2_3.dir\Arm.cpp.obj -c C:\Users\emila\Desktop\Projects\Lab2+3\Arm.cpp
+
+CMakeFiles/Lab2_3.dir/Arm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab2_3.dir/Arm.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\emila\Desktop\Projects\Lab2+3\Arm.cpp > CMakeFiles\Lab2_3.dir\Arm.cpp.i
+
+CMakeFiles/Lab2_3.dir/Arm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab2_3.dir/Arm.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\emila\Desktop\Projects\Lab2+3\Arm.cpp -o CMakeFiles\Lab2_3.dir\Arm.cpp.s
+
+CMakeFiles/Lab2_3.dir/Torso.cpp.obj: CMakeFiles/Lab2_3.dir/flags.make
+CMakeFiles/Lab2_3.dir/Torso.cpp.obj: ../Torso.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\emila\Desktop\Projects\Lab2+3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Lab2_3.dir/Torso.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lab2_3.dir\Torso.cpp.obj -c C:\Users\emila\Desktop\Projects\Lab2+3\Torso.cpp
+
+CMakeFiles/Lab2_3.dir/Torso.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab2_3.dir/Torso.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\emila\Desktop\Projects\Lab2+3\Torso.cpp > CMakeFiles\Lab2_3.dir\Torso.cpp.i
+
+CMakeFiles/Lab2_3.dir/Torso.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab2_3.dir/Torso.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\emila\Desktop\Projects\Lab2+3\Torso.cpp -o CMakeFiles\Lab2_3.dir\Torso.cpp.s
+
+CMakeFiles/Lab2_3.dir/Processor.cpp.obj: CMakeFiles/Lab2_3.dir/flags.make
+CMakeFiles/Lab2_3.dir/Processor.cpp.obj: ../Processor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\emila\Desktop\Projects\Lab2+3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Lab2_3.dir/Processor.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Lab2_3.dir\Processor.cpp.obj -c C:\Users\emila\Desktop\Projects\Lab2+3\Processor.cpp
+
+CMakeFiles/Lab2_3.dir/Processor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab2_3.dir/Processor.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\emila\Desktop\Projects\Lab2+3\Processor.cpp > CMakeFiles\Lab2_3.dir\Processor.cpp.i
+
+CMakeFiles/Lab2_3.dir/Processor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab2_3.dir/Processor.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\emila\Desktop\Projects\Lab2+3\Processor.cpp -o CMakeFiles\Lab2_3.dir\Processor.cpp.s
+
 # Object files for target Lab2_3
 Lab2_3_OBJECTS = \
-"CMakeFiles/Lab2_3.dir/main.cpp.obj"
+"CMakeFiles/Lab2_3.dir/main.cpp.obj" \
+"CMakeFiles/Lab2_3.dir/BodyPart.cpp.obj" \
+"CMakeFiles/Lab2_3.dir/Head.cpp.obj" \
+"CMakeFiles/Lab2_3.dir/Leg.cpp.obj" \
+"CMakeFiles/Lab2_3.dir/Arm.cpp.obj" \
+"CMakeFiles/Lab2_3.dir/Torso.cpp.obj" \
+"CMakeFiles/Lab2_3.dir/Processor.cpp.obj"
 
 # External object files for target Lab2_3
 Lab2_3_EXTERNAL_OBJECTS =
 
 Lab2_3.exe: CMakeFiles/Lab2_3.dir/main.cpp.obj
+Lab2_3.exe: CMakeFiles/Lab2_3.dir/BodyPart.cpp.obj
+Lab2_3.exe: CMakeFiles/Lab2_3.dir/Head.cpp.obj
+Lab2_3.exe: CMakeFiles/Lab2_3.dir/Leg.cpp.obj
+Lab2_3.exe: CMakeFiles/Lab2_3.dir/Arm.cpp.obj
+Lab2_3.exe: CMakeFiles/Lab2_3.dir/Torso.cpp.obj
+Lab2_3.exe: CMakeFiles/Lab2_3.dir/Processor.cpp.obj
 Lab2_3.exe: CMakeFiles/Lab2_3.dir/build.make
 Lab2_3.exe: CMakeFiles/Lab2_3.dir/linklibs.rsp
 Lab2_3.exe: CMakeFiles/Lab2_3.dir/objects1.rsp
 Lab2_3.exe: CMakeFiles/Lab2_3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\emila\Desktop\Projects\Lab2+3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Lab2_3.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\emila\Desktop\Projects\Lab2+3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Lab2_3.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Lab2_3.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

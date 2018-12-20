@@ -82,6 +82,45 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Arm.cpp">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Arm.h">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.cpp">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Head.cpp">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Head.h">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/LeftOrRight.h">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Leg.cpp">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Leg.h">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Processor.cpp">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Processor.h">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Torso.cpp">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Torso.h">
+			<Option target="Lab2_3"/>
+		</Unit>
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/main.cpp">
 			<Option target="Lab2_3"/>
 		</Unit>

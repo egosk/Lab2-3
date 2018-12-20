@@ -122,6 +122,168 @@ Lab2_3/fast:
 	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/build
 .PHONY : Lab2_3/fast
 
+Arm.obj: Arm.cpp.obj
+
+.PHONY : Arm.obj
+
+# target to build an object file
+Arm.cpp.obj:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Arm.cpp.obj
+.PHONY : Arm.cpp.obj
+
+Arm.i: Arm.cpp.i
+
+.PHONY : Arm.i
+
+# target to preprocess a source file
+Arm.cpp.i:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Arm.cpp.i
+.PHONY : Arm.cpp.i
+
+Arm.s: Arm.cpp.s
+
+.PHONY : Arm.s
+
+# target to generate assembly for a file
+Arm.cpp.s:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Arm.cpp.s
+.PHONY : Arm.cpp.s
+
+BodyPart.obj: BodyPart.cpp.obj
+
+.PHONY : BodyPart.obj
+
+# target to build an object file
+BodyPart.cpp.obj:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/BodyPart.cpp.obj
+.PHONY : BodyPart.cpp.obj
+
+BodyPart.i: BodyPart.cpp.i
+
+.PHONY : BodyPart.i
+
+# target to preprocess a source file
+BodyPart.cpp.i:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/BodyPart.cpp.i
+.PHONY : BodyPart.cpp.i
+
+BodyPart.s: BodyPart.cpp.s
+
+.PHONY : BodyPart.s
+
+# target to generate assembly for a file
+BodyPart.cpp.s:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/BodyPart.cpp.s
+.PHONY : BodyPart.cpp.s
+
+Head.obj: Head.cpp.obj
+
+.PHONY : Head.obj
+
+# target to build an object file
+Head.cpp.obj:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Head.cpp.obj
+.PHONY : Head.cpp.obj
+
+Head.i: Head.cpp.i
+
+.PHONY : Head.i
+
+# target to preprocess a source file
+Head.cpp.i:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Head.cpp.i
+.PHONY : Head.cpp.i
+
+Head.s: Head.cpp.s
+
+.PHONY : Head.s
+
+# target to generate assembly for a file
+Head.cpp.s:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Head.cpp.s
+.PHONY : Head.cpp.s
+
+Leg.obj: Leg.cpp.obj
+
+.PHONY : Leg.obj
+
+# target to build an object file
+Leg.cpp.obj:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Leg.cpp.obj
+.PHONY : Leg.cpp.obj
+
+Leg.i: Leg.cpp.i
+
+.PHONY : Leg.i
+
+# target to preprocess a source file
+Leg.cpp.i:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Leg.cpp.i
+.PHONY : Leg.cpp.i
+
+Leg.s: Leg.cpp.s
+
+.PHONY : Leg.s
+
+# target to generate assembly for a file
+Leg.cpp.s:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Leg.cpp.s
+.PHONY : Leg.cpp.s
+
+Processor.obj: Processor.cpp.obj
+
+.PHONY : Processor.obj
+
+# target to build an object file
+Processor.cpp.obj:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Processor.cpp.obj
+.PHONY : Processor.cpp.obj
+
+Processor.i: Processor.cpp.i
+
+.PHONY : Processor.i
+
+# target to preprocess a source file
+Processor.cpp.i:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Processor.cpp.i
+.PHONY : Processor.cpp.i
+
+Processor.s: Processor.cpp.s
+
+.PHONY : Processor.s
+
+# target to generate assembly for a file
+Processor.cpp.s:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Processor.cpp.s
+.PHONY : Processor.cpp.s
+
+Torso.obj: Torso.cpp.obj
+
+.PHONY : Torso.obj
+
+# target to build an object file
+Torso.cpp.obj:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Torso.cpp.obj
+.PHONY : Torso.cpp.obj
+
+Torso.i: Torso.cpp.i
+
+.PHONY : Torso.i
+
+# target to preprocess a source file
+Torso.cpp.i:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Torso.cpp.i
+.PHONY : Torso.cpp.i
+
+Torso.s: Torso.cpp.s
+
+.PHONY : Torso.s
+
+# target to generate assembly for a file
+Torso.cpp.s:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Torso.cpp.s
+.PHONY : Torso.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +320,24 @@ help:
 	@echo ... Lab2_3
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Arm.obj
+	@echo ... Arm.i
+	@echo ... Arm.s
+	@echo ... BodyPart.obj
+	@echo ... BodyPart.i
+	@echo ... BodyPart.s
+	@echo ... Head.obj
+	@echo ... Head.i
+	@echo ... Head.s
+	@echo ... Leg.obj
+	@echo ... Leg.i
+	@echo ... Leg.s
+	@echo ... Processor.obj
+	@echo ... Processor.i
+	@echo ... Processor.s
+	@echo ... Torso.obj
+	@echo ... Torso.i
+	@echo ... Torso.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
