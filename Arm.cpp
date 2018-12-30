@@ -12,12 +12,12 @@ void Arm::setSide(left_or_right side) {
     Arm::side = side;
 }
 
-bool Arm::isIsPrehesile() const {
-    return isPrehesile;
+bool Arm::isIsPrehensile() const {
+    return isPrehensile;
 }
 
-void Arm::setIsPrehesile(bool isPrehesile) {
-    Arm::isPrehesile = isPrehesile;
+void Arm::setIsPrehensile(bool isPrehensile) {
+    Arm::isPrehensile = isPrehensile;
 }
 
 int Arm::getStrength() const {
@@ -28,9 +28,11 @@ void Arm::setStrength(int strength) {
     Arm::strength = strength;
 }
 
-Arm::Arm(left_or_right side, bool isPrehesile, int strength) : side(side), isPrehesile(isPrehesile),
+Arm::Arm(bool isPrehensile, int strength) : isPrehensile(isPrehensile),
                                                                strength(strength) {}
 
 Arm::~Arm() {
 
 }
+
+//Arm::Arm() {}

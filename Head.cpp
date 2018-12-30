@@ -34,3 +34,5 @@ bool Head::isCanTalk() const {
 void Head::setCanTalk(bool canTalk) {
     Head::canTalk = canTalk;
 }
+
+Head::Head() {}

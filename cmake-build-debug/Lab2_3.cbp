@@ -94,6 +94,12 @@
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h">
 			<Option target="Lab2_3"/>
 		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.cpp">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.h">
+			<Option target="Lab2_3"/>
+		</Unit>
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Head.cpp">
 			<Option target="Lab2_3"/>
 		</Unit>

@@ -25,3 +25,5 @@ int Leg::getSpeed() const {
 void Leg::setSpeed(int speed) {
     Leg::speed = speed;
 }
+
+Leg::Leg() {}

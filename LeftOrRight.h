@@ -7,8 +7,7 @@
 enum left_or_right
 {
     left,
-    right,
-
+    right
 };
 
 #endif //LAB2_3_LEFTORRIGHT_H

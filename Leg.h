@@ -13,6 +13,8 @@ class Leg : public BodyPart{
 public:
     Leg(left_or_right side, int speed);
 
+    Leg();
+
     virtual ~Leg();
 
     left_or_right getSide() const;

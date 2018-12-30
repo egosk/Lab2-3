@@ -13,6 +13,8 @@ class Head : public BodyPart{
 public:
     Head(bool laserEyes, int brainPower, bool canTalk);
 
+    Head();
+
     virtual ~Head();
 
     bool isLaserEyes() const;

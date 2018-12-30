@@ -6,6 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Lab2_3.dir/Arm.cpp.obj"
   "CMakeFiles/Lab2_3.dir/Torso.cpp.obj"
   "CMakeFiles/Lab2_3.dir/Processor.cpp.obj"
+  "CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj"
   "Lab2_3.pdb"
   "Lab2_3.exe"
   "Lab2_3.exe.manifest"

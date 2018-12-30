@@ -9,6 +9,16 @@ CMakeFiles/Lab2_3.dir/Arm.cpp.obj: ../LeftOrRight.h
 CMakeFiles/Lab2_3.dir/BodyPart.cpp.obj: ../BodyPart.cpp
 CMakeFiles/Lab2_3.dir/BodyPart.cpp.obj: ../BodyPart.h
 
+CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj: ../Arm.h
+CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj: ../BodyPart.h
+CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj: ../BodyPartFactory.cpp
+CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj: ../BodyPartFactory.h
+CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj: ../Head.h
+CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj: ../LeftOrRight.h
+CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj: ../Leg.h
+CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj: ../Processor.h
+CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj: ../Torso.h
+
 CMakeFiles/Lab2_3.dir/Head.cpp.obj: ../BodyPart.h
 CMakeFiles/Lab2_3.dir/Head.cpp.obj: ../Head.cpp
 CMakeFiles/Lab2_3.dir/Head.cpp.obj: ../Head.h
@@ -26,5 +36,13 @@ CMakeFiles/Lab2_3.dir/Torso.cpp.obj: ../BodyPart.h
 CMakeFiles/Lab2_3.dir/Torso.cpp.obj: ../Torso.cpp
 CMakeFiles/Lab2_3.dir/Torso.cpp.obj: ../Torso.h
 
+CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Arm.h
+CMakeFiles/Lab2_3.dir/main.cpp.obj: ../BodyPart.h
+CMakeFiles/Lab2_3.dir/main.cpp.obj: ../BodyPartFactory.h
+CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Head.h
+CMakeFiles/Lab2_3.dir/main.cpp.obj: ../LeftOrRight.h
+CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Leg.h
+CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Processor.h
+CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Torso.h
 CMakeFiles/Lab2_3.dir/main.cpp.obj: ../main.cpp
 

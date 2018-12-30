@@ -8,10 +8,12 @@
 #define LAB2_3_ARM_H
 class Arm : public BodyPart{
     left_or_right side;
-    bool isPrehesile; //chwytny
+    bool isPrehensile; //chwytny
     int strength;
 public:
-    Arm(left_or_right side, bool isPrehesile, int strength);
+    Arm( bool isPrenhesile = 1, int strength = 10);
+
+    //Arm();
 
     virtual ~Arm();
 
@@ -19,9 +21,9 @@ public:
 
     void setSide(left_or_right side);
 
-    bool isIsPrehesile() const;
+    bool isIsPrehensile() const;
 
-    void setIsPrehesile(bool isPrehesile);
+    void setIsPrehensile(bool isPrehensile);
 
     int getStrength() const;
 

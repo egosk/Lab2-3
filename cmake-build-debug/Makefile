@@ -176,6 +176,33 @@ BodyPart.cpp.s:
 	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/BodyPart.cpp.s
 .PHONY : BodyPart.cpp.s
 
+BodyPartFactory.obj: BodyPartFactory.cpp.obj
+
+.PHONY : BodyPartFactory.obj
+
+# target to build an object file
+BodyPartFactory.cpp.obj:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj
+.PHONY : BodyPartFactory.cpp.obj
+
+BodyPartFactory.i: BodyPartFactory.cpp.i
+
+.PHONY : BodyPartFactory.i
+
+# target to preprocess a source file
+BodyPartFactory.cpp.i:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.i
+.PHONY : BodyPartFactory.cpp.i
+
+BodyPartFactory.s: BodyPartFactory.cpp.s
+
+.PHONY : BodyPartFactory.s
+
+# target to generate assembly for a file
+BodyPartFactory.cpp.s:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.s
+.PHONY : BodyPartFactory.cpp.s
+
 Head.obj: Head.cpp.obj
 
 .PHONY : Head.obj
@@ -326,6 +353,9 @@ help:
 	@echo ... BodyPart.obj
 	@echo ... BodyPart.i
 	@echo ... BodyPart.s
+	@echo ... BodyPartFactory.obj
+	@echo ... BodyPartFactory.i
+	@echo ... BodyPartFactory.s
 	@echo ... Head.obj
 	@echo ... Head.i
 	@echo ... Head.s
