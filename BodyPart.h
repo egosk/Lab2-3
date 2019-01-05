@@ -4,12 +4,18 @@
 #include <iostream>
 using namespace std;
 
+#include "Part.h"
+
 #ifndef LAB2_3_BODYPART_H
 #define LAB2_3_BODYPART_H
 
-class BodyPart{
+class BodyPart : public Part{
     string name;
     int x_position, y_position;
+public:
+    BodyPart();
+    //~BodyPart(); usunieta po dodaniu abstakcji
+
 public:
     int getX_position() const;
 
@@ -19,10 +25,11 @@ public:
 
     void setY_position(int y_position);
 
-public:
     const string &getName() const;
 
     void setName(const string &name);
+
+    Part* getPart();
 
 
 };

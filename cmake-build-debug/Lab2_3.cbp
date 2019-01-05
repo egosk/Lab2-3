@@ -100,6 +100,12 @@
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.h">
 			<Option target="Lab2_3"/>
 		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Cyborg.cpp">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Cyborg.h">
+			<Option target="Lab2_3"/>
+		</Unit>
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Head.cpp">
 			<Option target="Lab2_3"/>
 		</Unit>
@@ -113,6 +119,9 @@
 			<Option target="Lab2_3"/>
 		</Unit>
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Leg.h">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Part.h">
 			<Option target="Lab2_3"/>
 		</Unit>
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Processor.cpp">

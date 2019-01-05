@@ -11,9 +11,8 @@ class Head : public BodyPart{
     int brainPower;
     bool canTalk;
 public:
-    Head(bool laserEyes, int brainPower, bool canTalk);
+    Head(bool laserEyes = 0, int brainPower =  10 , bool canTalk = 1);
 
-    Head();
 
     virtual ~Head();
 

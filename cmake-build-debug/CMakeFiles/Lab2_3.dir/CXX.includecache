@@ -17,6 +17,12 @@ C:/Users/emila/Desktop/Projects/Lab2+3/LeftOrRight.h
 C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
 iostream
 -
+Part.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
+
+C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.cpp
+BodyPartFactory.h
+C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.h
 
 C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.h
 Arm.h
@@ -29,6 +35,32 @@ Processor.h
 C:/Users/emila/Desktop/Projects/Lab2+3/Processor.h
 Torso.h
 C:/Users/emila/Desktop/Projects/Lab2+3/Torso.h
+
+C:/Users/emila/Desktop/Projects/Lab2+3/Cyborg.cpp
+list
+-
+Cyborg.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Cyborg.h
+
+C:/Users/emila/Desktop/Projects/Lab2+3/Cyborg.h
+iostream
+-
+Head.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Head.h
+Processor.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Processor.h
+Torso.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Torso.h
+Arm.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Arm.h
+Leg.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Leg.h
+list
+C:/Users/emila/Desktop/Projects/Lab2+3/list
+
+C:/Users/emila/Desktop/Projects/Lab2+3/Head.cpp
+Head.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Head.h
 
 C:/Users/emila/Desktop/Projects/Lab2+3/Head.h
 BodyPart.h
@@ -45,6 +77,10 @@ iostream
 -
 LeftOrRight.h
 C:/Users/emila/Desktop/Projects/Lab2+3/LeftOrRight.h
+
+C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
+iostream
+-
 
 C:/Users/emila/Desktop/Projects/Lab2+3/Processor.h
 BodyPart.h
@@ -63,4 +99,6 @@ iostream
 -
 BodyPartFactory.h
 C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.h
+Cyborg.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Cyborg.h
 

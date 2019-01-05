@@ -4,6 +4,8 @@
 
 #include "BodyPart.h"
 
+BodyPart::BodyPart() {};
+
 const string &BodyPart::getName() const {
     return name;
 }
@@ -27,3 +29,9 @@ int BodyPart::getY_position() const {
 void BodyPart::setY_position(int y_position) {
     BodyPart::y_position = y_position;
 }
+
+Part* BodyPart::getPart() {
+    return new BodyPart();
+}
+
+

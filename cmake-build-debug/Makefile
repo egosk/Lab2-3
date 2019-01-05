@@ -203,6 +203,33 @@ BodyPartFactory.cpp.s:
 	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.s
 .PHONY : BodyPartFactory.cpp.s
 
+Cyborg.obj: Cyborg.cpp.obj
+
+.PHONY : Cyborg.obj
+
+# target to build an object file
+Cyborg.cpp.obj:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj
+.PHONY : Cyborg.cpp.obj
+
+Cyborg.i: Cyborg.cpp.i
+
+.PHONY : Cyborg.i
+
+# target to preprocess a source file
+Cyborg.cpp.i:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Cyborg.cpp.i
+.PHONY : Cyborg.cpp.i
+
+Cyborg.s: Cyborg.cpp.s
+
+.PHONY : Cyborg.s
+
+# target to generate assembly for a file
+Cyborg.cpp.s:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Cyborg.cpp.s
+.PHONY : Cyborg.cpp.s
+
 Head.obj: Head.cpp.obj
 
 .PHONY : Head.obj
@@ -356,6 +383,9 @@ help:
 	@echo ... BodyPartFactory.obj
 	@echo ... BodyPartFactory.i
 	@echo ... BodyPartFactory.s
+	@echo ... Cyborg.obj
+	@echo ... Cyborg.i
+	@echo ... Cyborg.s
 	@echo ... Head.obj
 	@echo ... Head.i
 	@echo ... Head.s

@@ -6,9 +6,11 @@ CMakeFiles/Lab2_3.dir/Arm.cpp.obj
  C:/Users/emila/Desktop/Projects/Lab2+3/Arm.h
  C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
  C:/Users/emila/Desktop/Projects/Lab2+3/LeftOrRight.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
 CMakeFiles/Lab2_3.dir/BodyPart.cpp.obj
  C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.cpp
  C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
 CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj
  C:/Users/emila/Desktop/Projects/Lab2+3/Arm.h
  C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
@@ -17,32 +19,50 @@ CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj
  C:/Users/emila/Desktop/Projects/Lab2+3/Head.h
  C:/Users/emila/Desktop/Projects/Lab2+3/LeftOrRight.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Leg.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Processor.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Torso.h
+CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj
+ C:/Users/emila/Desktop/Projects/Lab2+3/Arm.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Cyborg.cpp
+ C:/Users/emila/Desktop/Projects/Lab2+3/Cyborg.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Head.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/LeftOrRight.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Leg.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Processor.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Torso.h
 CMakeFiles/Lab2_3.dir/Head.cpp.obj
  C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Head.cpp
  C:/Users/emila/Desktop/Projects/Lab2+3/Head.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
 CMakeFiles/Lab2_3.dir/Leg.cpp.obj
  C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
  C:/Users/emila/Desktop/Projects/Lab2+3/LeftOrRight.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Leg.cpp
  C:/Users/emila/Desktop/Projects/Lab2+3/Leg.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
 CMakeFiles/Lab2_3.dir/Processor.cpp.obj
  C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Processor.cpp
  C:/Users/emila/Desktop/Projects/Lab2+3/Processor.h
 CMakeFiles/Lab2_3.dir/Torso.cpp.obj
  C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Torso.cpp
  C:/Users/emila/Desktop/Projects/Lab2+3/Torso.h
 CMakeFiles/Lab2_3.dir/main.cpp.obj
  C:/Users/emila/Desktop/Projects/Lab2+3/Arm.h
  C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
  C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Cyborg.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Head.h
  C:/Users/emila/Desktop/Projects/Lab2+3/LeftOrRight.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Leg.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Processor.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Torso.h
  C:/Users/emila/Desktop/Projects/Lab2+3/main.cpp

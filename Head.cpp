@@ -35,4 +35,3 @@ void Head::setCanTalk(bool canTalk) {
     Head::canTalk = canTalk;
 }
 
-Head::Head() {}
