@@ -9,3 +9,11 @@ Torso::Torso() {}
 Torso::~Torso() {
 
 }
+
+int Torso::getStrenght() const {
+    return strenght;
+}
+
+void Torso::setStrenght(int strenght) {
+    Torso::strenght = strenght;
+}

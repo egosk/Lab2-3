@@ -17,7 +17,10 @@ int main() {
     c1->setCyborgName("PierwszyCyborg");
     c1->setT(bodyPartFactory->creatingTorso());
     c1->setH(bodyPartFactory->creatingHead());
-    cout <<"Can head talk? " << c1->getH()->isCanTalk() << endl ;
+    cout <<"Can "<< c1->getCyborgName() <<" talk? " << c1->getH()->isCanTalk() << endl ;
+    cout << "CYborg IQ: " << c1->getH()->getBrainPower() << endl;
+    c1->setIQ(100);
+    cout << "CYborg IQ: " << c1->getH()->getBrainPower() << endl;
 
 
     return 0;

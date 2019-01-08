@@ -112,6 +112,9 @@
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Head.h">
 			<Option target="Lab2_3"/>
 		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/IProfession .h">
+			<Option target="Lab2_3"/>
+		</Unit>
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/LeftOrRight.h">
 			<Option target="Lab2_3"/>
 		</Unit>
@@ -130,10 +133,31 @@
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Processor.h">
 			<Option target="Lab2_3"/>
 		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Profession.h">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Scientist.cpp">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Scientist.h">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Soldier.cpp">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Soldier.h">
+			<Option target="Lab2_3"/>
+		</Unit>
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Torso.cpp">
 			<Option target="Lab2_3"/>
 		</Unit>
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Torso.h">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Worker.cpp">
+			<Option target="Lab2_3"/>
+		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Worker.h">
 			<Option target="Lab2_3"/>
 		</Unit>
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/main.cpp">

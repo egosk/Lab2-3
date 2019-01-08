@@ -11,7 +11,10 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/emila/Desktop/Projects/Lab2+3/Head.cpp" "C:/Users/emila/Desktop/Projects/Lab2+3/cmake-build-debug/CMakeFiles/Lab2_3.dir/Head.cpp.obj"
   "C:/Users/emila/Desktop/Projects/Lab2+3/Leg.cpp" "C:/Users/emila/Desktop/Projects/Lab2+3/cmake-build-debug/CMakeFiles/Lab2_3.dir/Leg.cpp.obj"
   "C:/Users/emila/Desktop/Projects/Lab2+3/Processor.cpp" "C:/Users/emila/Desktop/Projects/Lab2+3/cmake-build-debug/CMakeFiles/Lab2_3.dir/Processor.cpp.obj"
+  "C:/Users/emila/Desktop/Projects/Lab2+3/Scientist.cpp" "C:/Users/emila/Desktop/Projects/Lab2+3/cmake-build-debug/CMakeFiles/Lab2_3.dir/Scientist.cpp.obj"
+  "C:/Users/emila/Desktop/Projects/Lab2+3/Soldier.cpp" "C:/Users/emila/Desktop/Projects/Lab2+3/cmake-build-debug/CMakeFiles/Lab2_3.dir/Soldier.cpp.obj"
   "C:/Users/emila/Desktop/Projects/Lab2+3/Torso.cpp" "C:/Users/emila/Desktop/Projects/Lab2+3/cmake-build-debug/CMakeFiles/Lab2_3.dir/Torso.cpp.obj"
+  "C:/Users/emila/Desktop/Projects/Lab2+3/Worker.cpp" "C:/Users/emila/Desktop/Projects/Lab2+3/cmake-build-debug/CMakeFiles/Lab2_3.dir/Worker.cpp.obj"
   "C:/Users/emila/Desktop/Projects/Lab2+3/main.cpp" "C:/Users/emila/Desktop/Projects/Lab2+3/cmake-build-debug/CMakeFiles/Lab2_3.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

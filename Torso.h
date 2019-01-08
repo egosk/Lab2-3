@@ -6,6 +6,12 @@
 #ifndef LAB2_3_TORSO_H
 #define LAB2_3_TORSO_H
 class Torso : public BodyPart{
+    int strenght;
+public:
+    int getStrenght() const;
+
+    void setStrenght(int strenght);
+
 public:
     Torso();
 

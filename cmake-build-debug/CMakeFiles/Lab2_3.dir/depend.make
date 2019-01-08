@@ -27,11 +27,16 @@ CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../BodyPart.h
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Cyborg.cpp
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Cyborg.h
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Head.h
+CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../IProfession\ .h
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../LeftOrRight.h
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Leg.h
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Part.h
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Processor.h
+CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Profession.h
+CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Scientist.h
+CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Soldier.h
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Torso.h
+CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Worker.h
 
 CMakeFiles/Lab2_3.dir/Head.cpp.obj: ../BodyPart.h
 CMakeFiles/Lab2_3.dir/Head.cpp.obj: ../Head.cpp
@@ -49,20 +54,34 @@ CMakeFiles/Lab2_3.dir/Processor.cpp.obj: ../Part.h
 CMakeFiles/Lab2_3.dir/Processor.cpp.obj: ../Processor.cpp
 CMakeFiles/Lab2_3.dir/Processor.cpp.obj: ../Processor.h
 
+CMakeFiles/Lab2_3.dir/Scientist.cpp.obj: ../IProfession\ .h
+CMakeFiles/Lab2_3.dir/Scientist.cpp.obj: ../Scientist.cpp
+CMakeFiles/Lab2_3.dir/Scientist.cpp.obj: ../Scientist.h
+
+CMakeFiles/Lab2_3.dir/Soldier.cpp.obj: ../IProfession\ .h
+CMakeFiles/Lab2_3.dir/Soldier.cpp.obj: ../Soldier.cpp
+CMakeFiles/Lab2_3.dir/Soldier.cpp.obj: ../Soldier.h
+
 CMakeFiles/Lab2_3.dir/Torso.cpp.obj: ../BodyPart.h
 CMakeFiles/Lab2_3.dir/Torso.cpp.obj: ../Part.h
 CMakeFiles/Lab2_3.dir/Torso.cpp.obj: ../Torso.cpp
 CMakeFiles/Lab2_3.dir/Torso.cpp.obj: ../Torso.h
+
+CMakeFiles/Lab2_3.dir/Worker.cpp.obj: ../IProfession\ .h
+CMakeFiles/Lab2_3.dir/Worker.cpp.obj: ../Worker.cpp
+CMakeFiles/Lab2_3.dir/Worker.cpp.obj: ../Worker.h
 
 CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Arm.h
 CMakeFiles/Lab2_3.dir/main.cpp.obj: ../BodyPart.h
 CMakeFiles/Lab2_3.dir/main.cpp.obj: ../BodyPartFactory.h
 CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Cyborg.h
 CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Head.h
+CMakeFiles/Lab2_3.dir/main.cpp.obj: ../IProfession\ .h
 CMakeFiles/Lab2_3.dir/main.cpp.obj: ../LeftOrRight.h
 CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Leg.h
 CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Part.h
 CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Processor.h
+CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Profession.h
 CMakeFiles/Lab2_3.dir/main.cpp.obj: ../Torso.h
 CMakeFiles/Lab2_3.dir/main.cpp.obj: ../main.cpp
 

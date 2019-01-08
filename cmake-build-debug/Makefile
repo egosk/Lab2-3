@@ -311,6 +311,60 @@ Processor.cpp.s:
 	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Processor.cpp.s
 .PHONY : Processor.cpp.s
 
+Scientist.obj: Scientist.cpp.obj
+
+.PHONY : Scientist.obj
+
+# target to build an object file
+Scientist.cpp.obj:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Scientist.cpp.obj
+.PHONY : Scientist.cpp.obj
+
+Scientist.i: Scientist.cpp.i
+
+.PHONY : Scientist.i
+
+# target to preprocess a source file
+Scientist.cpp.i:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Scientist.cpp.i
+.PHONY : Scientist.cpp.i
+
+Scientist.s: Scientist.cpp.s
+
+.PHONY : Scientist.s
+
+# target to generate assembly for a file
+Scientist.cpp.s:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Scientist.cpp.s
+.PHONY : Scientist.cpp.s
+
+Soldier.obj: Soldier.cpp.obj
+
+.PHONY : Soldier.obj
+
+# target to build an object file
+Soldier.cpp.obj:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Soldier.cpp.obj
+.PHONY : Soldier.cpp.obj
+
+Soldier.i: Soldier.cpp.i
+
+.PHONY : Soldier.i
+
+# target to preprocess a source file
+Soldier.cpp.i:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Soldier.cpp.i
+.PHONY : Soldier.cpp.i
+
+Soldier.s: Soldier.cpp.s
+
+.PHONY : Soldier.s
+
+# target to generate assembly for a file
+Soldier.cpp.s:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Soldier.cpp.s
+.PHONY : Soldier.cpp.s
+
 Torso.obj: Torso.cpp.obj
 
 .PHONY : Torso.obj
@@ -337,6 +391,33 @@ Torso.s: Torso.cpp.s
 Torso.cpp.s:
 	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Torso.cpp.s
 .PHONY : Torso.cpp.s
+
+Worker.obj: Worker.cpp.obj
+
+.PHONY : Worker.obj
+
+# target to build an object file
+Worker.cpp.obj:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Worker.cpp.obj
+.PHONY : Worker.cpp.obj
+
+Worker.i: Worker.cpp.i
+
+.PHONY : Worker.i
+
+# target to preprocess a source file
+Worker.cpp.i:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Worker.cpp.i
+.PHONY : Worker.cpp.i
+
+Worker.s: Worker.cpp.s
+
+.PHONY : Worker.s
+
+# target to generate assembly for a file
+Worker.cpp.s:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Worker.cpp.s
+.PHONY : Worker.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -395,9 +476,18 @@ help:
 	@echo ... Processor.obj
 	@echo ... Processor.i
 	@echo ... Processor.s
+	@echo ... Scientist.obj
+	@echo ... Scientist.i
+	@echo ... Scientist.s
+	@echo ... Soldier.obj
+	@echo ... Soldier.i
+	@echo ... Soldier.s
 	@echo ... Torso.obj
 	@echo ... Torso.i
 	@echo ... Torso.s
+	@echo ... Worker.obj
+	@echo ... Worker.i
+	@echo ... Worker.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

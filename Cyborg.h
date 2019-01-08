@@ -8,6 +8,8 @@
 #include "Arm.h"
 #include "Leg.h"
 #include "list"
+#include "IProfession .h"
+#include "Profession.h"
 
 using namespace std;
 
@@ -20,13 +22,23 @@ class Cyborg{
     Torso* t;
     list<Arm>* arms;
     list<Leg>* legs;
+    int workEfficiency;
+    IProfession* profession;
+public:
+    int getWorkEfficiency() const;
+
+    void setWorkEfficiency(int workEfficiency);
 
 public:
-    Cyborg(const string &cyborgName, Head *h, Processor *p, Torso *t, list<Arm> *arms, list<Leg> *legs);
+    Cyborg(Profession prof1);
 
     Cyborg();
 
     virtual ~Cyborg();
+
+    void setIQ(int iq);
+
+    void setStrength(int st);
 
     const string &getCyborgName() const;
 
