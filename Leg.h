@@ -11,7 +11,7 @@ class Leg : public BodyPart{
     left_or_right side;
     int speed;
 public:
-    Leg(left_or_right side, int speed);
+    Leg(left_or_right side, int speed = 10);
 
     Leg();
 

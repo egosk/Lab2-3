@@ -7,17 +7,37 @@
 #include "Worker.h"
 #include "Scientist.h"
 #include "Soldier.h"
+#include "BodyPartFactory.h"
 
 Cyborg::Cyborg(Profession prof1) {
+    BodyPartFactory* bpf = new BodyPartFactory();
     switch (prof1){
         case Profession::Worker:
             Cyborg::profession = new Worker();
+            Cyborg::cyborgName = "CyborgWorker1";
+            Cyborg::workEfficiency = 100;
+            Cyborg::h = bpf->creatingHead();
+            Cyborg::p = bpf->creatingProcessor();
+            Cyborg::t = bpf->creatingTorso();
             break;
         case Profession::Scientist:
             Cyborg::profession = new Scientist();
+            Cyborg::cyborgName = "CyborgScientist1";
+            Cyborg::workEfficiency = 50;
+            Cyborg::h = bpf->creatingHead();
+            h->setBrainPower(100);
+            Cyborg::p = bpf->creatingProcessor();
+            Cyborg::t = bpf->creatingTorso();
             break;
         case Profession::Soldier:
             Cyborg::profession = new Soldier();
+            Cyborg::cyborgName = "CyborgSoldier1";
+            Cyborg::workEfficiency = 50;
+            Cyborg::h = bpf->creatingHead();
+            h->setLaserEyes(1);
+            Cyborg::p = bpf->creatingProcessor();
+            Cyborg::t = bpf->creatingTorso();
+            t->setStrength(1000);
             break;
         default:
             throw runtime_error("Unexpected strategy");
@@ -89,7 +109,7 @@ void Cyborg::setLegs(list<Leg> *legs) {
 }
 
 void Cyborg::setStrength(int st) {
-    Cyborg::t->setStrenght(st);
+    Cyborg::t->setStrength(st);
 }
 
 int Cyborg::getWorkEfficiency() const {

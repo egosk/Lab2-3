@@ -6,14 +6,14 @@
 #ifndef LAB2_3_TORSO_H
 #define LAB2_3_TORSO_H
 class Torso : public BodyPart{
-    int strenght;
+    int strength;
 public:
-    int getStrenght() const;
+    Torso(int strength = 20);
 
-    void setStrenght(int strenght);
+    int getStrength() const;
 
-public:
-    Torso();
+    void setStrength(int strength);
+
 
     virtual ~Torso();
 

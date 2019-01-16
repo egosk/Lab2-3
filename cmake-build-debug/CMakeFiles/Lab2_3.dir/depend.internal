@@ -25,6 +25,7 @@ CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj
  C:/Users/emila/Desktop/Projects/Lab2+3/Arm.h
  C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
+ C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Cyborg.cpp
  C:/Users/emila/Desktop/Projects/Lab2+3/Cyborg.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Head.h
@@ -67,6 +68,7 @@ CMakeFiles/Lab2_3.dir/Torso.cpp.obj
  C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
  C:/Users/emila/Desktop/Projects/Lab2+3/Torso.cpp
  C:/Users/emila/Desktop/Projects/Lab2+3/Torso.h
+CMakeFiles/Lab2_3.dir/UnitTests.cpp.obj
 CMakeFiles/Lab2_3.dir/Worker.cpp.obj
  C:/Users/emila/Desktop/Projects/Lab2+3/IProfession .h
  C:/Users/emila/Desktop/Projects/Lab2+3/Worker.cpp

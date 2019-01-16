@@ -24,6 +24,7 @@ CMakeFiles/Lab2_3.dir/BodyPartFactory.cpp.obj: ../Torso.h
 
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Arm.h
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../BodyPart.h
+CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../BodyPartFactory.h
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Cyborg.cpp
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Cyborg.h
 CMakeFiles/Lab2_3.dir/Cyborg.cpp.obj: ../Head.h
@@ -66,6 +67,7 @@ CMakeFiles/Lab2_3.dir/Torso.cpp.obj: ../BodyPart.h
 CMakeFiles/Lab2_3.dir/Torso.cpp.obj: ../Part.h
 CMakeFiles/Lab2_3.dir/Torso.cpp.obj: ../Torso.cpp
 CMakeFiles/Lab2_3.dir/Torso.cpp.obj: ../Torso.h
+
 
 CMakeFiles/Lab2_3.dir/Worker.cpp.obj: ../IProfession\ .h
 CMakeFiles/Lab2_3.dir/Worker.cpp.obj: ../Worker.cpp

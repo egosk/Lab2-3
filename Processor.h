@@ -6,10 +6,11 @@
 #ifndef LAB2_3_PROCESSOR_H
 #define LAB2_3_PROCESSOR_H
 class Processor : public BodyPart{
-    int frequency;
+    int frequency; //taktowanie GHz
     int coreNumber;
 public:
-    Processor();
+    Processor(int frequency = 3, int coreNumber = 4);
+
 
     virtual ~Processor();
 

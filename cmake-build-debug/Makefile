@@ -392,6 +392,33 @@ Torso.cpp.s:
 	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/Torso.cpp.s
 .PHONY : Torso.cpp.s
 
+UnitTests.obj: UnitTests.cpp.obj
+
+.PHONY : UnitTests.obj
+
+# target to build an object file
+UnitTests.cpp.obj:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/UnitTests.cpp.obj
+.PHONY : UnitTests.cpp.obj
+
+UnitTests.i: UnitTests.cpp.i
+
+.PHONY : UnitTests.i
+
+# target to preprocess a source file
+UnitTests.cpp.i:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/UnitTests.cpp.i
+.PHONY : UnitTests.cpp.i
+
+UnitTests.s: UnitTests.cpp.s
+
+.PHONY : UnitTests.s
+
+# target to generate assembly for a file
+UnitTests.cpp.s:
+	$(MAKE) -f CMakeFiles\Lab2_3.dir\build.make CMakeFiles/Lab2_3.dir/UnitTests.cpp.s
+.PHONY : UnitTests.cpp.s
+
 Worker.obj: Worker.cpp.obj
 
 .PHONY : Worker.obj
@@ -485,6 +512,9 @@ help:
 	@echo ... Torso.obj
 	@echo ... Torso.i
 	@echo ... Torso.s
+	@echo ... UnitTests.obj
+	@echo ... UnitTests.i
+	@echo ... UnitTests.s
 	@echo ... Worker.obj
 	@echo ... Worker.i
 	@echo ... Worker.s

@@ -4,16 +4,17 @@
 
 #include "Torso.h"
 
-Torso::Torso() {}
 
 Torso::~Torso() {
 
 }
 
-int Torso::getStrenght() const {
-    return strenght;
+int Torso::getStrength() const {
+    return strength;
 }
 
-void Torso::setStrenght(int strenght) {
-    Torso::strenght = strenght;
+void Torso::setStrength(int strength) {
+    Torso::strength = strength;
 }
+
+Torso::Torso(int strength) : strength(strength) {}

@@ -11,8 +11,7 @@ class Arm : public BodyPart{
     bool isPrehensile; //chwytny
     int strength;
 public:
-    Arm( bool isPrenhesile = 1, int strength = 10);
-
+    Arm(left_or_right side = left_or_right ::right, bool isPrehensile = 1, int strength = 10);
     //Arm();
 
     virtual ~Arm();

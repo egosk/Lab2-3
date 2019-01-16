@@ -4,8 +4,6 @@
 
 #include "Processor.h"
 
-Processor::Processor() {}
-
 Processor::~Processor() {
 
 }
@@ -25,3 +23,5 @@ int Processor::getCoreNumber() const {
 void Processor::setCoreNumber(int coreNumber) {
     Processor::coreNumber = coreNumber;
 }
+
+Processor::Processor(int frequency, int coreNumber) : frequency(frequency), coreNumber(coreNumber) {}

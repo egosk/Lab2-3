@@ -28,11 +28,12 @@ void Arm::setStrength(int strength) {
     Arm::strength = strength;
 }
 
-Arm::Arm(bool isPrehensile, int strength) : isPrehensile(isPrehensile),
-                                                               strength(strength) {}
 
 Arm::~Arm() {
 
 }
+
+Arm::Arm(left_or_right side, bool isPrehensile, int strength) : side(side), isPrehensile(isPrehensile),
+                                                                strength(strength) {}
 
 //Arm::Arm() {}

@@ -154,6 +154,9 @@
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Torso.h">
 			<Option target="Lab2_3"/>
 		</Unit>
+		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/UnitTests.cpp">
+			<Option target="Lab2_3"/>
+		</Unit>
 		<Unit filename="C:/Users/emila/Desktop/Projects/Lab2+3/Worker.cpp">
 			<Option target="Lab2_3"/>
 		</Unit>
