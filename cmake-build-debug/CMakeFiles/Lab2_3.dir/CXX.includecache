@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/emila/Desktop/Projects/Lab2+3/Arm.cpp
+Arm.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Arm.h
+
 C:/Users/emila/Desktop/Projects/Lab2+3/Arm.h
 BodyPart.h
 C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
@@ -14,11 +18,19 @@ iostream
 LeftOrRight.h
 C:/Users/emila/Desktop/Projects/Lab2+3/LeftOrRight.h
 
+C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.cpp
+BodyPart.h
+C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
+
 C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
 iostream
 -
 Part.h
 C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
+
+C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.cpp
+BodyPartFactory.h
+C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.h
 
 C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.h
 Arm.h
@@ -66,6 +78,10 @@ C:/Users/emila/Desktop/Projects/Lab2+3/IProfession .h
 Profession.h
 C:/Users/emila/Desktop/Projects/Lab2+3/Profession.h
 
+C:/Users/emila/Desktop/Projects/Lab2+3/Head.cpp
+Head.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Head.h
+
 C:/Users/emila/Desktop/Projects/Lab2+3/Head.h
 BodyPart.h
 C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
@@ -75,6 +91,10 @@ iostream
 C:/Users/emila/Desktop/Projects/Lab2+3/IProfession .h
 
 C:/Users/emila/Desktop/Projects/Lab2+3/LeftOrRight.h
+
+C:/Users/emila/Desktop/Projects/Lab2+3/Leg.cpp
+Leg.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Leg.h
 
 C:/Users/emila/Desktop/Projects/Lab2+3/Leg.h
 BodyPart.h
@@ -88,6 +108,10 @@ C:/Users/emila/Desktop/Projects/Lab2+3/Part.h
 iostream
 -
 
+C:/Users/emila/Desktop/Projects/Lab2+3/Processor.cpp
+Processor.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Processor.h
+
 C:/Users/emila/Desktop/Projects/Lab2+3/Processor.h
 BodyPart.h
 C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
@@ -96,11 +120,19 @@ iostream
 
 C:/Users/emila/Desktop/Projects/Lab2+3/Profession.h
 
+C:/Users/emila/Desktop/Projects/Lab2+3/Scientist.cpp
+Scientist.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Scientist.h
+
 C:/Users/emila/Desktop/Projects/Lab2+3/Scientist.h
 IProfession .h
 C:/Users/emila/Desktop/Projects/Lab2+3/IProfession .h
 iostream
 -
+
+C:/Users/emila/Desktop/Projects/Lab2+3/Soldier.cpp
+Soldier.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Soldier.h
 
 C:/Users/emila/Desktop/Projects/Lab2+3/Soldier.h
 IProfession .h
@@ -108,15 +140,31 @@ C:/Users/emila/Desktop/Projects/Lab2+3/IProfession .h
 iostream
 -
 
+C:/Users/emila/Desktop/Projects/Lab2+3/Torso.cpp
+Torso.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Torso.h
+
 C:/Users/emila/Desktop/Projects/Lab2+3/Torso.h
 BodyPart.h
 C:/Users/emila/Desktop/Projects/Lab2+3/BodyPart.h
 iostream
 -
 
+C:/Users/emila/Desktop/Projects/Lab2+3/Worker.cpp
+Worker.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Worker.h
+
 C:/Users/emila/Desktop/Projects/Lab2+3/Worker.h
 IProfession .h
 C:/Users/emila/Desktop/Projects/Lab2+3/IProfession .h
 iostream
 -
+
+C:/Users/emila/Desktop/Projects/Lab2+3/main.cpp
+iostream
+-
+BodyPartFactory.h
+C:/Users/emila/Desktop/Projects/Lab2+3/BodyPartFactory.h
+Cyborg.h
+C:/Users/emila/Desktop/Projects/Lab2+3/Cyborg.h
 

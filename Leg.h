@@ -1,6 +1,11 @@
-//
-// Created by emila on 12/20/2018.
-//
+/**
+* Klasa reprezentująca noge robota.
+ * Dziedziczy po klasie BodyPart.
+ *
+ * \param side okresla strone lewa/prawa
+ * \param speed okresla max predkosc osiagana przez robota
+ *
+*/
 #include "BodyPart.h"
 #include <iostream>
 #include "LeftOrRight.h"

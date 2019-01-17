@@ -1,6 +1,10 @@
-//
-// Created by emila on 12/20/2018.
-//
+/**
+* Klasa reprezentująca tors robota.
+* Dziedziczy po klasie BodyPart.
+*
+* \param strength okresla sile robota
+*
+*/
 #include "BodyPart.h"
 #include <iostream>
 #ifndef LAB2_3_TORSO_H

@@ -1,6 +1,11 @@
-//
-// Created by emila on 12/17/2018.
-//
+/**
+* Klasa reprezentująca czesc ciala robota.
+ * Dziedziczy po klasie Part.
+ * Dziedzicza po niej klasy Arm, Leg, Torso, Head, Processor.
+ *
+ * \param x_position, y_position moga byc uzywane przy realizacji gui
+ *
+*/
 #include <iostream>
 using namespace std;
 
@@ -14,7 +19,6 @@ class BodyPart : public Part{
     int x_position, y_position;
 public:
     BodyPart();
-    //~BodyPart(); usunieta po dodaniu abstakcji
 
 public:
     int getX_position() const;

@@ -1,6 +1,16 @@
-//
-// Created by emila on 12/30/2018.
-//
+/**
+* Klasa reprezentująca robota.
+ *
+ * \params cyborgName reperezentuje imie robotoa
+ * \params h, p, t reprezentuja glowe, processor i tors robota
+ * \params arms, legs to listy przechowywujace informacje o konczynach robota
+ *
+ * W konstruktorze zostal zrealizowany wzorzec strategii
+ * Na podstawie argumentu prof1 program podejmuje decyzje o jakich wlasciwiosciach robota stworzyc
+ * Dostepne obecnie opcje: worker, scientist, soldier
+ * Mozliwe stowrzenie cyborga bez narzuconych mu wlasciwosci typowych zawodowi - wykorzystujac kosntruktor bezargumnetowy
+ *
+*/
 #include <iostream>
 #include "Head.h"
 #include "Processor.h"

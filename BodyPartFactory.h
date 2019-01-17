@@ -1,6 +1,8 @@
-//
-// Created by emila on 12/28/2018.
-//
+/**
+* Klasa reprezentująca fabrke czesci ciala robota.
+ * Demonstruje realizacje wzorca fabryki
+ *
+*/
 #include "Arm.h"
 #include "Head.h"
 #include "Leg.h"

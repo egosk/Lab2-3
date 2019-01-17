@@ -1,6 +1,11 @@
-//
-// Created by emila on 12/20/2018.
-//
+/**
+* Klasa reprezentująca processor robota.
+ * Dziedziczy po klasie BodyPart.
+ *
+ * \param frequency reprezentuje czestotliwosc
+ * \param coreNumber ilosc rdzeni
+ *
+*/
 #include "BodyPart.h"
 #include <iostream>
 #ifndef LAB2_3_PROCESSOR_H

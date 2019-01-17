@@ -1,6 +1,7 @@
-//
-// Created by emila on 1/6/2019.
-//
+/**
+* Struktura reprezentujaca dostepne specjalizacje robota
+ *
+*/
 
 #ifndef LAB2_3_PROFESSION_H
 #define LAB2_3_PROFESSION_H

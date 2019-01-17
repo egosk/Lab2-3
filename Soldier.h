@@ -1,6 +1,6 @@
-//
-// Created by emila on 1/6/2019.
-//
+/**
+* Klasa reprezentujaca specjalizacje robota - zolnierz
+*/
 #include "IProfession .h"
 #include <iostream>
 #ifndef LAB2_3_SOLDIER_H

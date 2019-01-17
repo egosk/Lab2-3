@@ -1,6 +1,9 @@
-//
-// Created by emila on 12/30/2018.
-//
+/**
+* Klasa wirtualna reprezentujaca czesc ciala
+ * Utworzona na potrzeby demonstracji wykorzystania fukcji abstrakcji w projekcie
+ * Dziedziczy po niej klasa BodyPart
+ *
+*/
 #include <iostream>
 using namespace std;
 

@@ -1,6 +1,12 @@
-//
-// Created by emila on 12/20/2018.
-//
+/**
+* Klasa reprezentująca glowe robota.
+* Dziedziczy po klasie BodyPart.
+*
+* \param lasetEyes okresla czy dostepna jest opcja z laserowym wzrokiem
+ * \param brainPower okresla zdolnosci umyslowe robota
+ * \param canTalk okresla umiejetnosc mowienia robota
+*
+*/
 #include "BodyPart.h"
 #include <iostream>
 
